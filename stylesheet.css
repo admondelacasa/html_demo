@@ -1,0 +1,12 @@
+body {
+    background-color:rgb(253, 36, 242);
+    
+}
+.bloque {
+    margin: 50;
+    padding: 100;
+    border-style: ridge;
+    text-align: center;
+    background-color: bisque;
+    border-width: 10;
+}
